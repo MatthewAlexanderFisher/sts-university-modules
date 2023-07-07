@@ -3,6 +3,8 @@ STS University Modules
 
 Analysing Semantic Textual Similarity of university module catalogue entries for linking modules comparable in content.
 
+data/raw
+
 Project Organization
 ------------
 
